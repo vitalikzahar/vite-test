@@ -1,0 +1,52 @@
+.subscribe-conteiner {
+    position: relative;
+}
+.subscribe {
+    padding-top: 44px;
+    padding-bottom: 36px;
+}
+
+.subscribe-title {
+    font-size: 42px;
+line-height: 120%;
+color: #2C2C2C;
+margin-bottom: 20px;
+
+}
+.subscribe-description {
+    font-size: 16px;
+line-height: 150%;
+color: #2C2C2C;
+margin-bottom: 24px;
+}
+.subscribe-form {
+}
+.subscribe-label {
+    margin-right: 32px;
+}
+.subscribe-input {
+    padding: 12px 11px;
+    width: 394px;
+    font-size: 12px;
+line-height: 150%;
+color: #505050;
+border-radius: 30px;
+border: 0.854167px solid #FFE550;
+}
+.subscribe-button {
+    padding: 11px 22px;
+    background: #BBF330;
+border-radius: 30px;
+border: none;
+font-family: inherit;
+font-weight: 500;
+font-size: 13px;
+line-height: 150%;
+cursor: pointer;
+
+}
+.subscribe-img {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
