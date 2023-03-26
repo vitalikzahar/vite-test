@@ -1,0 +1,39 @@
+.header {
+  background: #fefefe;
+  box-shadow: 0px 4px 24px rgba(105, 105, 105, 0.1);
+  margin-bottom: 14px;
+}
+.header-content {
+  display: flex;
+  align-items: center;
+}
+.header-logo {
+  margin-right: 735px;
+}
+.header-navigation {
+}
+.header-list {
+  display: flex;
+  gap: 28px;
+}
+.header-item {
+  padding: 28px 0;
+}
+.header-link {
+  font-size: 14px;
+  line-height: 1.14;
+  padding: 28px 0;
+}
+
+.header-link:hover,
+.header-link:focus {
+  color: var(--main-accent-color);
+  text-decoration: underline;
+}
+
+.header-btn {
+  margin-left: 30px;
+  padding: 6px 18px;
+  min-width: 98px;
+  justify-content: flex-end;
+}
